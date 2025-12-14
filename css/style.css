@@ -1,7 +1,18 @@
-
-.two{
-	width: 100%;
+h1{
+ font-family: "Times New Roman", Times, serif;
+ color: darkblue;
+ font-size: 3.1em;
 }
-.three{
-	width: 100%;
+
+
+body{
+	background-color: beige;
+}
+
+.row{
+	margin-top:20px;
+}
+
+.border{
+ border-radius: 50%;
 }
